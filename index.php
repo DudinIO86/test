@@ -18,4 +18,5 @@ echo "\n";
 
 
 
-print_r ("hello");
+print "hello";
+print 2;
